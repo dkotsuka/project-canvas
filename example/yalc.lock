@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "project-canvas": {
+      "signature": "0c4f79a6e4114edd681f636cd97ec40e",
+      "file": true,
+      "replaced": "file:..@1.0.0"
+    }
+  }
+}
