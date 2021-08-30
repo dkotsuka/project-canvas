@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import SayHello from "project-canvas";
+import ComponentContainer from "./lib/CanvasContainer";
 
 function App() {
   return (
     <div className="App">
-      <SayHello name="Daniel" />
+      <ComponentContainer />
     </div>
   );
 }
